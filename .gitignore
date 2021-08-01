@@ -1,0 +1,7 @@
+runvenv.cmd
+freeze.cmd
+db.sqlite3
+DjangoProject/__pycache__/wsgi.cpython-39.pyc
+DjangoProject/__pycache__/urls.cpython-39.pyc
+DjangoProject/__pycache__/settings.cpython-39.pyc
+DjangoProject/__pycache__/__init__.cpython-39.pyc
